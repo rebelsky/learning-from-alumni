@@ -2,6 +2,11 @@
 
 <itemizedlist>
   <listitem>
+    Class 2: <ulink url="02.html">&title02;</ulink> (&date02;)
+    [<ulink url="02.md">Source</ulink>]
+    [<ulink url="02.pdf">PDF</ulink>]
+  </listitem>
+  <listitem>
     Class 1: <ulink url="01.html">&title01;</ulink> (&date01;)
     [<ulink url="01.md">Source</ulink>]
     [<ulink url="01.pdf">PDF</ulink>]

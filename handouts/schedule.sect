@@ -1,0 +1,117 @@
+<section id="schedule"><title>Schedule</title>
+
+<para>
+  <emphasis>This is an <emphasis type="strong">approximate</emphasis>
+  schedule.  Expect dates and topics to change.  (I will try to keep
+  due dates the same.)</emphasis>
+</para>
+
+<table class="schedule">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Date</th>
+      <th>Visitor</th>
+      <th>Host</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+        <td>01</td>
+        <td>&date01;</td>
+        <td><ulink url="../outlines/outline.01.html"><emphasis role="strong">&title01;</emphasis></ulink></td>
+        <td>&leader01;</td>
+      </tr>
+      <tr>
+        <td>02</td>
+        <td>&date02;</td>
+        <td><ulink url="../outlines/outline.02.html"><emphasis role="strong">&title02;</emphasis></ulink></td>
+        <td>&leader02;</td>
+      </tr>
+      <tr>
+        <td>03</td>
+        <td>&date03;</td>
+        <td><ulink url="../outlines/outline.03.html"><emphasis role="strong">&title03;</emphasis></ulink></td>
+        <td>&leader03;</td>
+      </tr>
+      <tr>
+        <td>04</td>
+        <td>&date04;</td>
+        <td><ulink url="../outlines/outline.04.html"><emphasis role="strong">&title04;</emphasis></ulink></td>
+        <td>&leader04;</td>
+      </tr>
+      <tr>
+        <td>05</td>
+        <td>&date05;</td>
+        <td><ulink url="../outlines/outline.05.html"><emphasis role="strong">&title05;</emphasis></ulink></td>
+        <td>&leader05;</td>
+      </tr>
+      <tr>
+        <td>06</td>
+        <td>&date06;</td>
+        <td><ulink url="../outlines/outline.06.html"><emphasis role="strong">&title06;</emphasis></ulink></td>
+        <td>&leader06;</td>
+      </tr>
+      <tr>
+        <td>07</td>
+        <td>&date07;</td>
+        <td><ulink url="../outlines/outline.07.html"><emphasis role="strong">&title07;</emphasis></ulink></td>
+        <td>&leader07;</td>
+      </tr>
+      <tr>
+        <td>08</td>
+        <td>&date08;</td>
+        <td><ulink url="../outlines/outline.08.html"><emphasis role="strong">&title08;</emphasis></ulink></td>
+        <td>&leader08;</td>
+      </tr>
+    <tr class="break">
+      <th colspan="4">
+        Fall Break
+      </th>
+    </tr>
+      <tr>
+        <td>09</td>
+        <td>&date09;</td>
+        <td><ulink url="../outlines/outline.09.html"><emphasis role="strong">&title09;</emphasis></ulink></td>
+        <td>&leader09;</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>&date10;</td>
+        <td><ulink url="../outlines/outline.10.html"><emphasis role="strong">&title10;</emphasis></ulink></td>
+        <td>&leader10;</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>&date11;</td>
+        <td><ulink url="../outlines/outline.11.html"><emphasis role="strong">&title11;</emphasis></ulink></td>
+        <td>&leader11;</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td>&date12;</td>
+        <td><ulink url="../outlines/outline.12.html"><emphasis role="strong">&title12;</emphasis></ulink></td>
+        <td>&leader12;</td>
+      </tr>
+    <tr class="break">
+      <th colspan="4">
+        Thanksgiving Break
+      </th>
+    </tr>
+      <tr>
+        <td>13</td>
+        <td>&date13;</td>
+        <td><ulink url="../outlines/outline.13.html"><emphasis role="strong">&title13;</emphasis></ulink></td>
+        <td>&leader13;</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td>&date14;</td>
+        <td><ulink url="../outlines/outline.14.html"><emphasis role="strong">&title14;</emphasis></ulink></td>
+        <td>&leader14;</td>
+      </tr>
+
+  </tbody>
+</table>
+
+</section> <!-- schedule -->

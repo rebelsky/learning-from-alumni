@@ -8,15 +8,15 @@
 
 <!ENTITY title03 "Ian Lunderskov '08">
 <!ENTITY abbrev03 "lunderskov">
-<!ENTITY leader03 "???">
+<!ENTITY leader03 "Nguyen and Wines">
 
 <!ENTITY title04 "Sam Tape '09">
 <!ENTITY abbrev04 "tape">
-<!ENTITY leader04 "???">
+<!ENTITY leader04 "Abuah and Opavsky">
 
-<!ENTITY title05 "Jordan Shkolnick '11 (uncomfirmed)">
-<!ENTITY abbrev05 "shkolnick">
-<!ENTITY leader05 "???">
+<!ENTITY title05 "Jim Finnessey '04">
+<!ENTITY abbrev05 "finnessey">
+<!ENTITY leader05 "Estrada and Wines">
 
 <!ENTITY title06 "<emphasis>No class.  Sam at GHC.</emphasis>">
 <!ENTITY abbrev06 "ghc">
@@ -24,33 +24,33 @@
 
 <!ENTITY title07 "Tony Stubblebine '00">
 <!ENTITY abbrev07 "stubblebine">
-<!ENTITY leader07 "???">
+<!ENTITY leader07 "Wheeler and Nguyen">
 
 <!ENTITY title08 "Eryn O'Neill '07">
-<!ENTITY abbrev08 "finnessy">
-<!ENTITY leader08 "???">
+<!ENTITY abbrev08 "oneill">
+<!ENTITY leader08 "Ustek and Abuah">
 
-<!ENTITY title09 "Jim Finnessey '04">
-<!ENTITY abbrev09 "finnessey">
-<!ENTITY leader09 "???">
+<!ENTITY title09 "Jordan Shkolnick '11">
+<!ENTITY abbrev09 "shkolnick">
+<!ENTITY leader09 "Estrada and Abuah">
 
 <!ENTITY title10 "Shitanshu Aggarwal '11">
 <!ENTITY abbrev10 "aggarwal">
-<!ENTITY leader10 "???">
+<!ENTITY leader10 "Wheeler and Nystrom">
 
 <!ENTITY title11 "Atul Gupta '88">
 <!ENTITY abbrev11 "gupta">
-<!ENTITY leader11 "???">
+<!ENTITY leader11 "Nystrom and Opavsky">
 
 <!ENTITY title12 "Heather Whisenhunt '08">
 <!ENTITY abbrev12 "whisenhunt">
-<!ENTITY leader12 "???">
+<!ENTITY leader12 "Mataire and Opavsky">
 
-<!ENTITY title13 "Erik Hanson '98 (unconfirmed)">
+<!ENTITY title13 "Erik Hanson '00">
 <!ENTITY abbrev13 "hanson">
-<!ENTITY leader13 "???">
+<!ENTITY leader13 "Mataire and Wheeler">
 
-<!ENTITY title14 "???">
+<!ENTITY title14 "Someone from Epic Systems">
 <!ENTITY abberv14 "epic">
-<!ENTITY leader14 "???">
+<!ENTITY leader14 "Nguyen, Liberto, and Yuan">
 

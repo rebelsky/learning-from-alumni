@@ -1,7 +1,173 @@
 <section id="front-door"><title>Front Door</title>
 
+<section id="introduction"><title>Introduction</title>
+
 <para>
-  Welcome to the &semester; section of &courseid; - &coursename;.
+  Welcome to the Fall 2013 session of Grinnell College's CSC 295, a
+  special topics course entitled <emphasis>Thinking Beyond Grinnell -
+  Learning from Alumni</emphasis>.  In this course, we will meet (often
+  virtually) with alumni with careers related to computer science who
+  will talk about their life and career paths, and will provide advice
+  for students on things to learn and things to do.  You can read the
+  <ulink url="../handouts/blurb.html">offical blurb</ulink> for more details.
 </para>
 
-</section> <!-- front-door -->
+<para>
+  The focus of the class is the visits by alumni.  While some of these
+  visits will involve alumni coming directly to campus, the majority of
+  the visits will be <quote>virtual</quote>, via Skype or some other
+  teleconferencing system.
+</para>
+
+<para>
+  The Web site for the course is
+  <code><ulink url="&url;"/></code>
+  You can find all sorts of interesting things on the course web, and I'd
+  encourage you to look there.
+</para>
+
+<para>
+  This is an <emphasis>experimental</emphasis> course.  Among other
+  things, this means that I expect to be updating the syllabus as the
+  semester goes on.
+</para>
+
+</section>  <!-- introduction -->
+
+<section id="basics"><title>Basics</title>
+
+<para>
+  <emphasis role="strong">Meets</emphasis>: 
+  Thursdays, 2:15-4:05 p.m., Science 3821. 
+</para>
+
+<para>
+  <emphasis role="strong">Instructor</emphasis>: 
+  <ulink url="http://www.cs.grinnell.edu/~rebelsky/">Samuel
+  A. Rebelsky</ulink>, Science 3824.  269-4410 (office).  236-7445 (home).
+  Office hours: Monday, 2:15-4:05; Tuesday, 2:15-2:45; Wednesday:
+  2:15-2:45; Friday, 3:15-4:05.  I tend to follow an open door policy:
+  Feel free to stop by when my door is open or to make an appointment
+  for another time.  Please do not call my house before 7 a.m. or after
+  10 p.m.
+</para>
+
+</section>
+
+<section id="grading"><title>Grading</title>
+
+<para>
+  This course is offered for one credit and is graded as
+  S/D/F.  All students who take the course are expected to
+</para>
+
+<itemizedlist>
+  <listitem>
+    attend at least eleven of the thirteen class meetings;
+  </listitem>
+
+  <listitem>
+    do all assigned readings;
+  </listitem>
+
+  <listitem>
+    facilitiate (or co-facilitate) approximately three physical or
+    virtual alumni visits (the precise number depends on the number of
+    students enrolled);
+  </listitem>
+
+  <listitem>
+    write a short reflective piece on each alumni visit; and
+  </listitem>
+
+  <listitem>
+    write a short reflective piece at the end of the semester.
+  </listitem>
+</itemizedlist>
+
+</section> <!-- grading -->
+
+<section id="facilitating"><title>Facilitating Visits</title>
+
+<para>
+  The students in this course are responsible for hosting and facilitating
+  the visits of the alumni.  (Practice with organizing visits is one
+  of the learning goals of the course.)  At the start of the semester,
+  students will sign up in groups to facilitate alumni visits (see <ulink
+  url="../handouts/schedule.html">the schedule</ulink> for details of
+  particular visits).
+</para>
+
+<para>
+  As the facilitator for a visit, you are expected to work with the alumnus
+  or alumna on the following in advance of the visit.
+</para>
+
+<itemizedlist>
+  <listitem>
+    Develop a structure for their visit.  While most visits will involve
+    a moderate-length lecture (say 45 minutes) and a follow-up question
+    and answer (or discussion) session, some alumni might want to consider
+    other approaches.
+  </listitem>
+
+  <listitem>
+    Identify any resources that they would like students to read or
+    explore before their talk.
+  </listitem>
+
+  <listitem>
+    Write a short biographical sketch that can be distributed to the
+    class before the class meeting.
+  </listitem>
+
+  <listitem>
+    Write a short abstract for the lecture that can be distributed to
+    the class before the class meeting.
+  </listitem>
+
+  <listitem>
+    Work out any technological issues for their visit.  For in-class
+    visits, that means making sure that we have the resources (Internet,
+    projection, etc.) that they need for the visit.  For remote visits,
+    that means making sure that Skype (or whatever communication system
+    they suggest) works appropriately.
+  </listitem>
+</itemizedlist>
+
+<para>
+  Your work also continues into the class session.  During the class session
+  you facilitate, you should do the following:
+</para>
+
+<itemizedlist>
+  <listitem>
+    Arrive early to set up technologies.
+  </listitem>
+
+  <listitem>
+    Introduce the alumna or alumnus.
+  </listitem>
+
+  <listitem>
+    Continue to monitor technologies during class.
+  </listitem>
+
+  <listitem>
+    Facilitate discussion.
+  </listitem>
+
+  <listitem>
+    Be ready to ask a wide variety of questions.
+  </listitem>
+</itemizedlist>
+
+</section> <!-- leading -->
+
+<section id="textbook"><title>Textbooks and Other Readings</title>
+
+<emphasis>Forthcoming.</emphasis>
+
+</section> <!-- textbook -->
+
+</section>  <!-- front-door -->

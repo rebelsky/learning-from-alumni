@@ -15,39 +15,31 @@
   [<a href="../home">Front Door</a>]
   [<a href="../handouts/schedule.html">Schedule</a>] 
   -
-  [<a href="../handouts/academic-honesty.html">Academic Honesty</a>]
-  [<a href="../handouts/disabilities.html">Disabilities</a>]
   [<a href="../handouts/email.html">Email</a>]
   [<a href="../handouts/faq.html">FAQ</a>]
   [<a href="../handouts/irc.html">IRC</a>]
-  [<a href="../handouts/teaching.html">Teaching &amp; Learning</a>]
 </p>
 <p class="links"><b>Current:</b>
   [<a href="../outlines/current.html">Outline</a>] 
   [<a href="../eboards/current.html">EBoard</a>]
-  [<a href="../readings/current.html">Reading</a>]
-  [<a href="../labs/current.html">Lab</a>]
-  [<a href="../assignments/current.html">Assignment</a>]
 </p>
 <p class="links"> <b>Sections:</b> 
-  [<a href="../assignments/">Assignments</a>] 
   [<a href="../eboards/">EBoards</a>] 
-  [<a href="../examples/">Examples</a>] 
   [<a href="../handouts/">Handouts</a>] 
-  [<a href="../labs/">Labs</a>] 
   [<a href="../outlines/">Outlines</a>] 
   [<a href="../readings/">Readings</a>]
 </p>
 <p class="links"> <b>Reference:</b> 
 </p>
 <p class="links"><b>Related Courses:</b>
+  [<a href="http://www.cs.grinnell.edu/~rebelsky/Courses/CSC295/2013S.LearningFromAlumni/">LfA 2013F</a>]
 </p>
 <p class="links"> <b>Misc:</b> 
   [<a href="http://www.cs.grinnell.edu/~rebelsky/">SamR</a>]
   [<a href="http://www.cs.grinnell.edu/glimmer/">Glimmer Labs</a>]
   [<a href="http://www.cs.grinnell.edu/">CS@Grinnell</a>]
   [<a href="http://www.grinnell.edu/">Grinnell</a>]
-  [<a href="https://github.com/rebelsky/generic-course/issues">Issue Tracker</a>]
+  [<a href="https://github.com/rebelsky/learning-from-alumni/issues">Issue Tracker</a>]
 </p>
 
 </div><!--noprint-->
