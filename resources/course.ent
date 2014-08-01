@@ -1,8 +1,9 @@
-<!ENTITY courseid "CSC 295">
+<!ENTITY courseid "CSC 281">
 <!ENTITY section "01">
-<!ENTITY semester "2013F">
+<!ENTITY semester "2014F">
 <!ENTITY coursename "Learning from Alumni">
 <!ENTITY school "Grinnell College">
-<!ENTITY url "http://www.cs.grinnell.edu/~rebelsky/Courses/CSC295/2013F/">
+<!ENTITY url "http://www.cs.grinnell.edu/~rebelsky/Courses/CSC281/2014F/">
 <!ENTITY courseurl "&url;">
-<!ENTITY grader "rebelsky@cs.grinenll.edu">
+<!ENTITY grader "rebelsky@cs.grinnell.edu">
+<!ENTITY gcal "CALENDAR">
