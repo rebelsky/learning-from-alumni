@@ -1,56 +1,56 @@
-<!ENTITY title01 "Lea Wittie '98">
-<!ENTITY abbrev01 "wittie">
+<!ENTITY title01 "Course Planning">
+<!ENTITY abbrev01 "course-planning">
 <!ENTITY leader01 "Rebelsky">
 
-<!ENTITY title02 "Course Planning">
-<!ENTITY abbrev02 "course-planning">
-<!ENTITY leader02 "Rebelsky">
+<!ENTITY title02 "Jillian Goetz '10">
+<!ENTITY abbrev02 "TBD">
+<!ENTITY leader02 "TBD">
 
-<!ENTITY title03 "Ian Lunderskov '08">
-<!ENTITY abbrev03 "lunderskov">
-<!ENTITY leader03 "Nguyen and Wines">
+<!ENTITY title03 "Oge Nnadi '06">
+<!ENTITY abbrev03 "nnadi">
+<!ENTITY leader03 "TBD">
 
-<!ENTITY title04 "Sam Tape '09">
-<!ENTITY abbrev04 "tape">
-<!ENTITY leader04 "Abuah and Opavsky">
+<!ENTITY title04 "Arjun Guha '06">
+<!ENTITY abbrev04 "guha">
+<!ENTITY leader04 "TBD">
 
-<!ENTITY title05 "Jim Finnessey '04">
-<!ENTITY abbrev05 "finnessey">
-<!ENTITY leader05 "Estrada and Wines">
+<!ENTITY title05 "Ian Bone '09">
+<!ENTITY abbrev05 "bone">
+<!ENTITY leader05 "TBD">
 
-<!ENTITY title06 "<emphasis>No class.  Sam at GHC.</emphasis>">
-<!ENTITY abbrev06 "ghc">
-<!ENTITY leader06 "">
+<!ENTITY title06 "Angela Kmiec '04">
+<!ENTITY abbrev06 "kmiec">
+<!ENTITY leader06 "TBD">
 
-<!ENTITY title07 "Tony Stubblebine '00">
-<!ENTITY abbrev07 "stubblebine">
-<!ENTITY leader07 "Wheeler and Nguyen">
+<!ENTITY title07 "Pause for Breath">
+<!ENTITY abbrev07 "pause">
+<!ENTITY leader07 "TBD">
 
-<!ENTITY title08 "Eryn O'Neill '07">
-<!ENTITY abbrev08 "oneill">
-<!ENTITY leader08 "Ustek and Abuah">
+<!ENTITY title08 "Sarah Sproehnle '00">
+<!ENTITY abbrev08 "sproehnle">
+<!ENTITY leader08 "TBD">
 
-<!ENTITY title09 "Jordan Shkolnick '11">
-<!ENTITY abbrev09 "shkolnick">
-<!ENTITY leader09 "Estrada and Abuah">
+<!ENTITY title09 "Ravi Chande '11">
+<!ENTITY abbrev09 "chande">
+<!ENTITY leader09 "TBD">
 
-<!ENTITY title10 "Shitanshu Aggarwal '11">
-<!ENTITY abbrev10 "aggarwal">
-<!ENTITY leader10 "Wheeler and Nystrom">
+<!ENTITY title10 "Martin Dluhos '12">
+<!ENTITY abbrev10 "TBD">
+<!ENTITY leader10 "TBD">
 
-<!ENTITY title11 "Atul Gupta '88">
-<!ENTITY abbrev11 "gupta">
-<!ENTITY leader11 "Nystrom and Opavsky">
+<!ENTITY title11 "Aru Singh '09">
+<!ENTITY abbrev11 "singh">
+<!ENTITY leader11 "TBD">
 
-<!ENTITY title12 "Heather Whisenhunt '08">
-<!ENTITY abbrev12 "whisenhunt">
-<!ENTITY leader12 "Mataire and Opavsky">
+<!ENTITY title12 "Alex Cohn '11">
+<!ENTITY abbrev12 "TBD">
+<!ENTITY leader12 "TBD">
 
-<!ENTITY title13 "Erik Hanson '00">
-<!ENTITY abbrev13 "hanson">
-<!ENTITY leader13 "Mataire and Wheeler">
+<!ENTITY title13 "Ian Young '08">
+<!ENTITY abbrev13 "young">
+<!ENTITY leader13 "TBD">
 
-<!ENTITY title14 "Someone from Epic Systems">
-<!ENTITY abberv14 "epic">
-<!ENTITY leader14 "Nguyen, Liberto, and Yuan">
+<!ENTITY title14 "Wrapup and Debriefing">
+<!ENTITY abbrev14 "wrapup">
+<!ENTITY leader14 "Rebelsky">
 

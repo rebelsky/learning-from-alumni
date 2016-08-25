@@ -1,42 +1,126 @@
-Outline 01: Lea Wittie '98
-==========================
+Outline 01: Course Planning
+===========================
 
-Held: Thursday, 29 August 2013
+Held: Tuesday,    2 September 2014
 
-On to [Outline 02 - Course Planning](outline.02.html).
+On to [Outline 02 - Jillian Goetz '10](outline.02.html).
+
 
 **Summary**
 
-Lea Wittie graduated Grinnell College in 1998 with a B.A. in Computer
-Science. She went straight into a Ph.D. program in Computer Science at
-Dartmouth College. While at Dartmouth, she worked on programming language
-projects and eventually wrote a thesis on type-safe concurrency. Lea
-defended her Ph.D. thesis in 2004 and a few months later became an
-Assistant Professor in the Computer Science Department of Bucknell
-University. As a professor, she teaches undergraduate classes, researches
-programming languages with students, and works on University service
-projects such as ABET accreditation for the Computer Science department
-and Middle States accreditation for the University. She also designs
-new courses such as a crash course in robotics and automated vehicles
-for first year students in Engineering and an upper level elective
-in compiler design and optimization for Computer Science majors. She
-received tenure in 2011 and became an Associate Professor. Lea loves
-her job and plans to stay in it for at least the next 30 years.
-
+We discuss the structure for the course and make some plans for the
+semester.
 
 **Related Pages**
 
-* [Lea Wittie's home page](http://www.eg.bucknell.edu/~lwittie/)
 
 **Overview**
 
-* Talk and discussion.
-* A quick intro to the course.
+* About the course.
+* About the alums.
+* Choosing hosts.
+* Options from Ian Young.
+* A strategy for hosting alums.
+* Other course details.
+* Resume review.
 
 **Administrivia**
 
-* Welcome to Learning from Alumni.
-* Instead of opening with a "Getting Started" talk, we're opening with
-  Lea Wittie.
 
+About the course
+----------------
+
+* Intended as a resource for Grinnell students.
+    * Learn about different careers.
+    * Learn about what employers look for.
+    * Learn about the job search process.
+    * And more.
+* Sam thinks it's important, but wants to see more student involvement.
+    * How important?  I taught it last year with no compensation.
+    * What involvement?  Interact with the alums.  Perhaps even interact
+      with other alums.
+* You have a lot of responsibility for the course.  (Not because I want
+  to offload work, but because I think you gain from interacting directly
+  with the alums.)
+* Your jobs
+    * Show up.
+    * Ask good questions.  Let me say that again: Ask good questions.
+    * Co-host about three alums this semester.
+    * Send reflective paragraphs.
+    * If hosting an on-campus alum, maybe get dinner partners.
+    * Do an informational interview with at least one alum.  (It need not
+      be one of those who visit.)
+
+About the alums
+---------------
+
+### Ian Bone '09 (in person)
+
+### Ravi Chande '11
+
+### Alex Cohn '11 (in person)
+
+### Martin Dluhos '12
+
+### Jillian Goetz '10 or so (in person)
+
+### Arjun Guha '06
+
+### Rachel Heck '01
+
+### Angela Kmiec '04 (in person) (not yet reconfirmed)
+
+### Oge Nnadi '06
+
+### Aru Singh '09
+
+### Sarah Sproehnle '00
+
+### Ian Young '08
+
+Choosing hosts
+--------------
+
+* We'll spend a few minutes with each person indicating who they 
+  would like to host.
+
+Options from Ian Young
+----------------------
+
+* How to promote yourself and feel good about it
+* How to apply for a job
+* How to negotiate salary or ask for a raise
+* Hacking in your spare time for fun and profit
+* The things school couldn't teach you about software design in the real world
+* Money management that isn't awful (this one isn't directly related to CS at all, but the material is already written)
+* Shaping the direction of your career
+* How to work in technology without moving to San Francisco and still enjoy it
+* Oh, the people you'll meet (or, how to interact effectively with your coworkers)
+
+A strategy for hosting alums
+----------------------------
+
+* We're going to work together to set up a description of the course
+  that you can provide to alums, a template for questions to ask,
+  and so on and so forth.
+
+Other course details
+--------------------
+
+* Just in case there are any other.
+
+Important lessons from previous semesters
+-----------------------------------------
+
+* Have side projects
+* Network
+* Do informational interviews with alums
+* Have an elevator pitch
+
+Resume review
+-------------
+
+* I asked for resumes primarily so that you've had them for future
+  visits.
+* We'll spend a few minutes looking at your resumes.
 
